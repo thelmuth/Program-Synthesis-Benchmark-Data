@@ -1,3 +1,10 @@
+NOTE
+====
+
+__This repo is now considered depricated, and users should instead use the better datasets for the same problems located here__: https://github.com/thelmuth/program-synthesis-benchmark-datasets
+
+
+
 General Program Synthesis Training and Test Examples CSVs
 =========================================================
 
