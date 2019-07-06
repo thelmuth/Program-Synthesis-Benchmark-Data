@@ -5,9 +5,9 @@ __This repo is now considered depricated, and users should instead use the bette
 
 
 
-General Program Synthesis Training and Test Examples CSVs
+~~General Program Synthesis Training and Test Examples CSVs~~
 =========================================================
 
-This repo contains CSVs with generated training and testing examples for the general program synthesis problems described in General Program Synthesis Benchmark Suite, a paper by Thomas Helmuth and Lee Spector at GECCO 2015.
+~~This repo contains CSVs with generated training and testing examples for the general program synthesis problems described in General Program Synthesis Benchmark Suite, a paper by Thomas Helmuth and Lee Spector at GECCO 2015.~~
 
-At this point these files are not in their final forms, and might undergo significant changes and additions.
+~~At this point these files are not in their final forms, and might undergo significant changes and additions.~~
